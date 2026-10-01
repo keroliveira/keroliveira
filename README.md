@@ -1,6 +1,13 @@
 # Olá, eu me chamo *Kerol de Oliveira* 🪆✨
 
-#### Ingressei em 2025 no curso de Análise e Desenvolvimento de Sistemas na Estácio e, atualmente, estou no 3º período. Sou bacharela em Comunicação Social, mas encontrei meu caminho entre os arquivos fotográficos de Recife. Ler tantos historiadores durante esse período me levou a cursar Licenciatura em História, na UFPE, e desenvolver pesquisa a nível de Mestrado e Doutorado em História Social na mesma instituição. Meus interesses, que sempre foram múltiplos, me ensinaram a estudar e amar Pernambuco, minha terra natal, na mesma medida que reconheci a importância de "sair da ilha", como recomendou Ashin Das Gupta. Meu coração latino e ao mesmo tempo internacionalista me fez ter a coragem de levar os mesmos princípios para o campo intelectual. Paradoxalmente (ou não) encontrei na tecnologia a confluência de muitas paixões, antigas e novas. Atualmente, estou em transição de carreira, flertando com o back e o front, dados e outras coisinhas mais.
+<div align="left">
+<img width="220" height="220" alt="gatinho-digitando-loucamente" align="right" src="https://github.com/user-attachments/assets/ebcdd580-e7e9-481a-98db-2e3f8290b5d8"/>
+<p>
+  <strong>
+    Ingressei em 2025 no curso de Análise e Desenvolvimento de Sistemas na Estácio e, atualmente, estou no 3º período. Sou bacharela em Comunicação Social, mas encontrei meu caminho entre os arquivos fotográficos de Recife. Ler tantos historiadores durante esse período me levou a cursar Licenciatura em História, na UFPE, e desenvolver pesquisa a nível de Mestrado e Doutorado em História Social na mesma instituição. Meus interesses, que sempre foram múltiplos, me ensinaram a estudar e amar Pernambuco, minha terra natal, na mesma medida que reconheci a importância de "sair da ilha", como recomendou Ashin Das Gupta. Meu coração latino e ao mesmo tempo internacionalista me fez ter a coragem de levar os mesmos princípios para o campo intelectual. Paradoxalmente (ou não) encontrei na tecnologia a confluência de muitas paixões, antigas e novas. Atualmente, estou em transição de carreira, flertando com o back e o front, dados e outras coisinhas mais.
+  </strong>
+</p>
+</div>
 
 <div> 
   <a href="https://www.linkedin.com/in/keroliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
